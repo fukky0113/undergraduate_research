@@ -1,0 +1,3 @@
+['loss', 'model_1_loss', 'model_2_loss', 'model_4_loss', 'model_3_loss', 'model_4_loss', 'model_3_loss']
+
+(64, 128, 128, 3)
